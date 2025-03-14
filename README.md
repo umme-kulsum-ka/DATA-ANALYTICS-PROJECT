@@ -8,12 +8,16 @@ Problem Statement:-
 Customer churn is a major challenge for telecom & subscription -based Businesses, as losing customers leads to revenue loss and higher customer acquisition costs. Understanding the factors influencing churn and identifying at-risk customers can help businesses take proactive steps to improve customer retention. This project aims to analyze customer behavior, payment methods, and subscription preferences to predict churn and suggest strategies for reducing it.
 
 Key Insights from the Data:-
+
 1. Churn Rate Trends:
 	The overall churn rate is 27%, which indicates a significant loss of customers.
+
 	Certain customer segments, such as senior citizens, have a higher churn rate.
 
 3. Impact of Customer Subscription & Support:
+   
 	Customers with month-to-month contracts have the highest churn rate compared to annual or two-year contracts.
+
 	Lack of tech support and online security services is associated with higher churn.
 
 6. Payment Method & Churn Relationship:
@@ -21,6 +25,7 @@ Key Insights from the Data:-
 
 9. Service Usage Patterns:
 	Customers who do not use streaming services (TV/movies) tend to have lower churn rates, suggesting engagement in value-added services improves retention.
+
 	Customers with multiple tech support tickets are more likely to churn, possibly due to dissatisfaction with service quality.
 
 12. Customer Demographics & Churn:
